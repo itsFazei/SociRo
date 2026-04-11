@@ -13,7 +13,7 @@ The following TTS models have been experimented with:
     **kokoro sample:**
 
     <audio controls>
-    <source src="https://github.com/itsFazei/SociRo/blob/main/playground/tts/outputs/kokoro-output.wav" type="audio/wav">
+    <source src="./tts/outputs/kokoro-output.wav" type="audio/wav">
     Your browser does not support WAV audio!
     </audio>
 
@@ -26,7 +26,7 @@ The following TTS models have been experimented with:
     **xtts-v2 sample:**
 
     <audio controls>
-    <source src="https://github.com/itsFazei/SociRo/blob/main/playground/tts/outputs/xttsv2-output.wav" type="audio/wav">
+    <source src="./tts/outputs/xttsv2-output.wav" type="audio/wav">
     Your browser does not support WAV audio!
     </audio>
 
@@ -40,7 +40,7 @@ The following TTS models have been experimented with:
 
     <audio controls>
 
-    <source src="https://github.com/itsFazei/SociRo/blob/main/playground/tts/outputs/chatterbox-output.wav" type="audio/wav">
+    <source src="./tts/outputs/chatterbox-output.wav" type="audio/wav">
     Your browser does not support WAV audio!
     </audio>
 
@@ -54,6 +54,6 @@ The following TTS models have been experimented with:
 
     <audio controls>
 
-    <source src="https://github.com/itsFazei/SociRo/blob/main/playground/tts/outputs/piper-output.wav" type="audio/wav">
+    <source src="./tts/outputs/piper-output.wav" type="audio/wav">
     Your browser does not support WAV audio!
     </audio>
