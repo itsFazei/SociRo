@@ -12,4 +12,4 @@ The following TTS models have been experimented with:
 
 - [Chatterbox TTS](./tts/chatterbox/chatterbox-tts.ipynb) jupyter notebook with implementation and findings
 
-- [Bark TTS](./README.md) soon...
+- [Piper](./tts/piper/piper-tts.ipynb) jupyter notebook with implementation and findings
