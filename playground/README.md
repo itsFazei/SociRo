@@ -12,12 +12,12 @@ The following TTS models have been experimented with:
 
     **kokoro sample:**
 
-    <audio controls>
-    <source src="./tts/outputs/kokoro-output.wav" type="audio/wav">
-    Your browser does not support WAV audio!
-    </audio>
+      <audio controls>
+      <source src="./tts/outputs/kokoro-output.mp3" type="audio/mpeg">
+      Your browser does not support MP3 audio!
+      </audio>
 
-    </br>
+      </br>
 
 - [Coqui XTTS-v2](./tts/coqui/coqui-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -25,12 +25,12 @@ The following TTS models have been experimented with:
 
     **xtts-v2 sample:**
 
-    <audio controls>
-    <source src="./tts/outputs/xttsv2-output.wav" type="audio/wav">
-    Your browser does not support WAV audio!
-    </audio>
+      <audio controls>
+      <source src="./tts/outputs/xttsv2-output.mp3" type="audio/mpeg">
+      Your browser does not support MP3 audio!
+      </audio>
 
-    </br>
+      </br>
 
 - [Chatterbox TTS](./tts/chatterbox/chatterbox-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -38,13 +38,13 @@ The following TTS models have been experimented with:
 
     **chatterbox sample:**
 
-    <audio controls>
+      <audio controls>
 
-    <source src="./tts/outputs/chatterbox-output.wav" type="audio/wav">
-    Your browser does not support WAV audio!
-    </audio>
+      <source src="./tts/outputs/chatterbox-output.mp3" type="audio/mpeg">
+      Your browser does not support MP3 audio!
+      </audio>
 
-    </br>
+      </br>
 
 - [Piper](./tts/piper/piper-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -52,8 +52,8 @@ The following TTS models have been experimented with:
 
     **piper sample:**
 
-    <audio controls>
+      <audio controls>
 
-    <source src="./tts/outputs/piper-output.wav" type="audio/wav">
-    Your browser does not support WAV audio!
-    </audio>
+      <source src="./tts/outputs/piper-output.mp3" type="audio/mpeg">
+      Your browser does not support MP3 audio!
+      </audio>
