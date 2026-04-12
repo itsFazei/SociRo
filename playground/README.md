@@ -1,5 +1,11 @@
 # SociRo Playground
 
+> NOTE: audio samples seem broken so just visit the ./outputs dir
+
+https://github.com/user-attachments/assets/022088dd-72c9-4a54-9d5d-82b3d8bef8d5
+
+
+
 In this directory you will find all the experimental code regarding the SociRo project.
 
 ## TTS
@@ -12,7 +18,6 @@ The following TTS models have been experimented with:
 
     **kokoro sample:**
 
-    <video src='https://github.com/user-attachments/assets/bd7da7bd-cb4c-4967-9d77-b698e8987a52'/>
 
 - [Coqui XTTS-v2](./tts/coqui/coqui-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -20,7 +25,7 @@ The following TTS models have been experimented with:
 
     **xtts-v2 sample:**
 
-    <video src='https://github.com/user-attachments/assets/12c95298-3879-4b10-9a84-ced1ab45e747'/>
+
 
 
 - [Chatterbox TTS](./tts/chatterbox/chatterbox-tts.ipynb) jupyter notebook with implementation and findings
@@ -29,7 +34,7 @@ The following TTS models have been experimented with:
 
     **chatterbox sample:**
 
-    <video src='https://github.com/user-attachments/assets/3e40570e-cfba-4e2c-bce3-444bbd4a60ba'/>
+
 
 - [Piper](./tts/piper/piper-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -37,6 +42,20 @@ The following TTS models have been experimented with:
 
     **piper sample:**
 
-    <video src='https://github.com/user-attachments/assets/c7c5687c-869a-476c-9277-5c2f5aaab948'/>
+
+  
+https://github.com/user-attachments/assets/f5f322da-0787-475c-8c86-07f693ecda8a
+
+
+
+https://github.com/user-attachments/assets/d350b43a-5cbf-4dc1-bae4-7b24e567eb0c
+
+
+
+https://github.com/user-attachments/assets/234b5abb-d1e0-46ce-b116-90fd6e7cbbe5
+
+
+
+https://github.com/user-attachments/assets/8a943c1d-db37-4177-9130-b0d283f315c5
 
 
