@@ -12,12 +12,7 @@ The following TTS models have been experimented with:
 
     **kokoro sample:**
 
-    <audio controls>
-    <source src="./tts/outputs/kokoro-output.mp3" type="audio/mpeg">
-    Your browser does not support MP3 audio!
-    </audio>
-
-    </br>
+    <video src='https://github.com/user-attachments/assets/bd7da7bd-cb4c-4967-9d77-b698e8987a52'/>
 
 - [Coqui XTTS-v2](./tts/coqui/coqui-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -25,12 +20,8 @@ The following TTS models have been experimented with:
 
     **xtts-v2 sample:**
 
-    <audio controls>
-    <source src="./tts/outputs/xttsv2-output.mp3" type="audio/mpeg">
-    Your browser does not support MP3 audio!
-    </audio>
+    <video src='https://github.com/user-attachments/assets/12c95298-3879-4b10-9a84-ced1ab45e747'/>
 
-    </br>
 
 - [Chatterbox TTS](./tts/chatterbox/chatterbox-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -38,13 +29,7 @@ The following TTS models have been experimented with:
 
     **chatterbox sample:**
 
-    <audio controls>
-
-    <source src="./tts/outputs/chatterbox-output.mp3" type="audio/mpeg">
-    Your browser does not support MP3 audio!
-    </audio>
-
-    </br>
+    <video src='https://github.com/user-attachments/assets/3e40570e-cfba-4e2c-bce3-444bbd4a60ba'/>
 
 - [Piper](./tts/piper/piper-tts.ipynb) jupyter notebook with implementation and findings
 
@@ -52,8 +37,6 @@ The following TTS models have been experimented with:
 
     **piper sample:**
 
-    <audio controls>
+    <video src='https://github.com/user-attachments/assets/c7c5687c-869a-476c-9277-5c2f5aaab948'/>
 
-    <source src="./tts/outputs/piper-output.mp3" type="audio/mpeg">
-    Your browser does not support MP3 audio!
-    </audio>
+
