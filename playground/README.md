@@ -1,10 +1,9 @@
 # SociRo Playground
 
-> NOTE: audio samples seem broken so just visit the ./outputs dir
+> [!NOTE]
+> audio samples seem broken so just visit the ./outputs dir
 
 https://github.com/user-attachments/assets/022088dd-72c9-4a54-9d5d-82b3d8bef8d5
-
-
 
 In this directory you will find all the experimental code regarding the SociRo project.
 
